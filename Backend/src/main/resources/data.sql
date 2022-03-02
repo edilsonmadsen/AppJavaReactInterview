@@ -1,0 +1,14 @@
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Bolsas', 'Acessórios', 12.24, 'Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Mochilas', 'Acessórios', 2.24, 'Amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Brincos', 'Acessórios', 26.4, 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Anéis', 'Acessórios', 11.00, 'Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.');
+
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Anabela', 'Calçados', 1.00,  'No sea takimata sanctus');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Bota', 'Calçados', 14.44, 'Consetetur sadipscing elitr aliquyam erat');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Sandálias', 'Calçados', 3.00, 'Amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Sapatilhas', 'Calçados',12.24, 'Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem');
+
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Blusas', 'Roupas', 1.56, 'Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Camisas', 'Roupas', 20.00, 'Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Shorts', 'Roupas', 0.44, 'Diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero');
+INSERT INTO `ProductsList` (name, category, preco, descricao) VALUES ('Jeans', 'Roupas', 99.00, 'Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.');
