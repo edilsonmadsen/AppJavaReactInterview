@@ -23,15 +23,15 @@ public class ProductService {
         return  repository.saveAll(product);
     }
 
-    public List<Product> getProducts() {
-        return repository.findAll();
-    }
-
     public Product getProductsById(int id) {
         return repository.findById(id).orElse(null);
     }
 
     public List<Product> getProductsByCategory(String category) {
         return repository.findByCategory(category);
+    }
+
+    public List<Product> getProducts() {
+        return repository.findAll();
     }
 }
